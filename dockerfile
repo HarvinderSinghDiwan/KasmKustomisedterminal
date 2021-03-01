@@ -14,3 +14,4 @@ RUN apt upgrade -y ; apt update -y ; bash /root/tools.sh
 hello
 hello
 hello
+hello
