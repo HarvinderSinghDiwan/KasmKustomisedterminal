@@ -13,3 +13,4 @@ RUN apt upgrade -y ; apt update -y ; bash /root/tools.sh
 ######### End Customizations ##########
 hello
 hello
+hello
